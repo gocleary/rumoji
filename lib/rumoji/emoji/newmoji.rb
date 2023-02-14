@@ -2,7 +2,6 @@
 # TODO: Recategorize emojis to the appropriate files.
 
 require 'rumoji/emoji'
-require 'set'
 
 module Rumoji
   class Emoji

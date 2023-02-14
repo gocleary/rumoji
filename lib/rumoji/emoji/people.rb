@@ -1,7 +1,6 @@
 # -*- encoding: utf-8 -*-
 
 require 'rumoji/emoji'
-require 'set'
 
 module Rumoji
   class Emoji
